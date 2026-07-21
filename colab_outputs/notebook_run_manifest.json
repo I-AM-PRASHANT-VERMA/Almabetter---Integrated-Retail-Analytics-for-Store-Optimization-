@@ -1,0 +1,24 @@
+{
+  "run_date": "2026-07-20 23:47:13",
+  "project_root": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization",
+  "data_dir": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization/dateset",
+  "output_dir": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization/colab_outputs",
+  "figure_dir": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization/colab_outputs/figures",
+  "sales_rows": 421570,
+  "features_rows": 8190,
+  "stores_rows": 45,
+  "merged_rows": 421570,
+  "weekly_rows": 130,
+  "store_count": 45,
+  "department_count": 81,
+  "store_dept_forecast_rows": 38530,
+  "date_min": "2010-02-05",
+  "date_max": "2012-10-26",
+  "best_model": "Tuned Exponential Smoothing",
+  "best_model_specification": "Seasonal_Only_52",
+  "best_model_metrics": {
+    "RMSE": 587628.2963190607,
+    "MAE": 504893.98547671107,
+    "WAPE": 1.26860129067802
+  }
+}

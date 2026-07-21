@@ -1,0 +1,15 @@
+{
+  "Best_Model": "Model 2",
+  "Display_Name": "Tuned Exponential Smoothing",
+  "Specification": "Seasonal_Only_52",
+  "Metrics": {
+    "RMSE": 587628.2963190607,
+    "MAE": 504893.98547671107,
+    "WAPE": 1.26860129067802
+  },
+  "Saved_Files": {
+    "Model": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization/colab_outputs/best_retail_forecast_model.joblib",
+    "Metrics": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization/colab_outputs/forecast_model_metrics.csv",
+    "Predictions": "/content/drive/MyDrive/Colab Notebooks/# specialization projects/3rd project Integrated Retail Analytics for Store Optimization/colab_outputs/best_model_test_predictions.csv"
+  }
+}

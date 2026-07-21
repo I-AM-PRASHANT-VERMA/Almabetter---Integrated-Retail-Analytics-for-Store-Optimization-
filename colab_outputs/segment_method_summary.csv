@@ -1,0 +1,5 @@
+Method,Cluster_Count,Noise_Points,Silhouette
+KMeans,2,0,0.30383577255669936
+Agglomerative,2,0,0.2894766309725453
+DBSCAN,2,39,0.8625172031135658
+MeanShift,1,0,

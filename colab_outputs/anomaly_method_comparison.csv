@@ -1,0 +1,5 @@
+Flag_Type,Flag_Count
+IsolationForest_Flag,12
+LOF_Flag,12
+OneClassSVM_Flag,13
+Anomaly_Flag,9
